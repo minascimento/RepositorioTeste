@@ -1,7 +1,3 @@
 Testando a pasta 1
 
-Alterando o arquivo
-Alterando de novo
-
-Testando primeiro arquivo
-Testando de novo primeiro arquivo
+Testando pull e push
