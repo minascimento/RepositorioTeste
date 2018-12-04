@@ -1,0 +1,96 @@
+body {
+    /*background-image: url(https://auth.gfx.ms/16.000.27920.00/images/Backgrounds/0.jpg?x=a5dbd4393ff6a725c7e62b61df7e72f0);*/
+    background-image: linear-gradient(rgba(1, 1, 1, 1), rgba(1, 1, 1, 0.3));
+    background-attachment: fixed;
+    background-size: 100%;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.login {
+    background-color: #FFF9F2;
+    width: 40%;
+    height: 45%;
+    margin-left: 30%;
+    margin-top: 14%;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 7%;
+    margin-left: 20%;
+}
+
+input {
+    display: flex;
+    font-size: 16px;
+    background-color: #fff9f2;
+    width: 65%;
+    height: 10%;
+    margin-left: 14%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.usu {
+    margin-top: 10%;
+}
+
+.pass {
+    margin-top: 5%;
+}
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12%;
+    margin-top: 40%;
+    
+}
+
+.entre {
+    display: flex;
+    margin-left: 37%;
+    margin-top: 5%;
+    width: 20%;
+    height: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: space-around;
+    transition: ease-in-out 0.1s;
+    background-color: #2A4686;
+    color: #fff9f2;
+}
+
+.entre:hover {
+    transition: ease-in-out 0.1s;
+    background-color: #75809B;
+    color: black;
+}
+
+footer {
+    height: 2%;
+    margin-top: 13%;
+    float: right;
+    width: 100%;
+}
+
+.footer {
+    height: 2%;
+    float: left;
+    margin-left: 41.5%;
+    color: white;
+}
+
+.cadastro {
+    color: #5151EC;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.cadastro:hover {
+    color: blue;
+    transition: all 0.3s;
+}
